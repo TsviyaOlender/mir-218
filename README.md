@@ -1,4 +1,4 @@
-# mir-281
+# mir-218
 Counting miR-218-2-5p isotypes
 
 1. runStar_mirs.pl is used for aligning the fastq data to the genome.
